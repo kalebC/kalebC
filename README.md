@@ -1,3 +1,1 @@
-CompSci undergrad
-
-Currently studying Python
+Imperatriz | 25 | Ciência da Computação
